@@ -38,4 +38,6 @@ i = open('fern.jpg', 'rb') #read binary
 i1 = open('fern-fern.jpg', 'wb') #write binary
 
 for row in i:
-    i1.write(row)
+    i1.write()
+    
+    
