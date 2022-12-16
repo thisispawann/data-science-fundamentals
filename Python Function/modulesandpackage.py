@@ -29,3 +29,6 @@ b = 8
 
 result = mul(a, b)
 print(result)
+
+import datetime
+print(datetime.datetime.now())
