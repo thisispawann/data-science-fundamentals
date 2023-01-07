@@ -1,0 +1,5 @@
+language,framework,users
+Python,Django,40000
+Python,FastAPI,9000
+Java,Hibernate,7000
+JavaScript,NodeJS,5000
