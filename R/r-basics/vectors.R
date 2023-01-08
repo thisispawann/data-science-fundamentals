@@ -1,5 +1,6 @@
-# vectors can be combined via the function c
-n <- c(2,3,5)
+# vectors can be combined via the function c.
+# we use c() function to declare a vector
+n <- c(2,3,5)   
 s <- c('aa', 'bb', 'cc')
 print(c(n, s))
 
