@@ -20,3 +20,5 @@ total_vector <- c(1, 2, 3) + c(4, 5, 6)
   
 # Print out total_vector
 print(total_vector)
+
+

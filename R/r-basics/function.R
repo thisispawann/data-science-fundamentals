@@ -127,20 +127,10 @@ get_bonus(25000, 6)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+greet <- function() {
+  print("Namaste")
+}
+greet()
 
 
 
